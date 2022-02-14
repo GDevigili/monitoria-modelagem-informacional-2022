@@ -6,10 +6,10 @@ Curso: [Modelagem Informacional](https://ss.cursos.fgv.br/d2l/home/121047)    <b
 Professor: Júlio César Chaves                                                 <br>
 Monitor: [Gianlucca Devigili](https://www.linkedin.com/in/gianluccadevigili/)
 
-### Avaliação
+### Monitorias
 
-+ (4 pts) trabalho em grupo 
-+ (6 pts) exercícios individuais 
++ [Monitoria 1 (aulas 01 e 02)](https://github.com/GDevigili/monitoria-modelagem-informacional-2022/blob/main/Monitoria%20(01)%20-%2014%2002.md)<br>
+Tags: `modelos informacionais`, `metadados`, `desenvolvimento de banco de dados`
 
 ### Ferramentas
 
