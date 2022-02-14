@@ -56,6 +56,6 @@ Outro exemplo é este diagrama:
 
 ![Untitled](img/0214-img1.png)
 
-note que `-15000` pode ser qualquer coisa,  mas quando temos a **informação** de que estes `-15000` representam um `saldo bancário`, você consegue entender melhor o dado por conta de seu **metadado** (o dado do dado).
+note que `-15000` pode ser qualquer coisa,  mas quando temos a **informação** de que estes `-15000` representam um `saldo bancário` é possível compreender melhor o dado por conta de seu **metadado** (o dado do dado). Além disso podemos gerar conhecimento a partir do metadado (um saldo negativo significa que a pessoa está endividada).
 
 > Dica: preencha a primeira coluna da segunda tabela com o metadado.
