@@ -29,7 +29,7 @@ Pense qual o primeiro passo do desenvolvimento: elicitar os requisitos do banco 
 
 E desenvolvimento termina quando? Após o *deploy,* quando ele começa a ser usado? Na etapa de administração do mesmo? Ou então ele para de ser desenvolvido apenas após o banco deixar de ser usado e o negócio ter acabado?
 
-(Dica: a resposta da questão 8 pode ajudar a encontrar a resposta da segunda).
+> Dica: a resposta da questão 8 pode ajudar a encontrar a resposta da segunda
 
 ## A2Q6 Dado vs. Metadado
 
@@ -58,12 +58,4 @@ Outro exemplo é este diagrama:
 
 note que `-15000` pode ser qualquer coisa,  mas quando temos a **informação** de que estes `-15000` representam um `saldo bancário`, você consegue entender melhor o dado por conta de seu **metadado** (o dado do dado).
 
-> Também poderíamos especificar mais os dados, adicionando informações como tipo (ex.: varchar(45), decimal(10,2), char, bool, etc.), quanto armazenamento ele ocupa, a tabela na qual ele está armazenado no banco, etc. Mas isso já é mais do que a questão pede.
-
-## A1Q3
-
-```
-❓ Cite 3 recursos comuns utilizados na etapa de elicitação de requisitos junto aos usuários finais.
-```
-
-Dica: existem mais do que 3.
+> Dica: preencha a primeira coluna da segunda tabela com o metadado.
