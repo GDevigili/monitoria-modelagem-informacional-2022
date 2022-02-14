@@ -1,9 +1,12 @@
 # Monitoria (01) - 14/02
-Disciplina: Modelagem Informacional<br>
-Professor: Júlio César Chaves<br>
-Monitor: Gianlucca Devigili.
+**Curso:** [Modelagem Informacional](https://ss.cursos.fgv.br/d2l/home/121047)    <br>
+**Professor:** Júlio César Chaves<br>
+**Monitor:** [Gianlucca Devigili](https://wa.me/+5547984566646)
 
-> Slides das aulas: [aula 01](https://ss.cursos.fgv.br/d2l/le/content/121047/viewContent/1506500/View) | [aula 02](https://ss.cursos.fgv.br/d2l/le/content/121047/viewContent/1511634/View) _(os links exigem estar logado no eclass)_
+**Lista:** aulas 01 e 02<br>
+obs: até questão 12 da aula 2
+
+> **Slides das aulas:** [aula 01](https://ss.cursos.fgv.br/d2l/le/content/121047/viewContent/1506500/View) | [aula 02](https://ss.cursos.fgv.br/d2l/le/content/121047/viewContent/1511634/View) _(os links exigem estar logado no eclass)_
 
 ## A2Q2
 
