@@ -7,8 +7,10 @@
 
 ### Monitorias
 
-+ [Monitoria 1 (aulas 01 e 02)](https://github.com/GDevigili/monitoria-modelagem-informacional-2022/blob/main/Monitoria%20(01)%20-%2014%2002.md)<br>
++ 14/02 - [Monitoria 01 (aulas 01 e 02)](https://github.com/GDevigili/monitoria-modelagem-informacional-2022/blob/main/Monitoria%20(01)%20-%2014%2002.md)<br>
 Tags: `modelos informacionais`, `metadados`, `desenvolvimento de banco de dados`
++ 21/02 - Monitoria 02 (aulas 03 e 04)
+Tags: 
 
 ### Ferramentas
 
