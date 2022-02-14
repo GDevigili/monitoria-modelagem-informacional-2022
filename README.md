@@ -1,9 +1,9 @@
-# Monitoria Modelagem Informacional 2022
-Repositório para conter os materiais da monitoria da disciplina de Modelagem Informacional do curso de Ciência de Dados e Inteligência Artificial da FGV-EMAp
+# Monitoria Modelagem Informacional - 2022.1
+Repositório para conter os materiais da monitoria da disciplina de Modelagem Informacional do curso de Ciência de Dados e Inteligência Artificial da FGV-EMAp.
 
-Escola de Matemática Aplicada - Fundação Getulio Vargas
-Curso: Modelagem Informacional
-Professor: Júlio César Chaves
+**Escola de Matemática Aplicada - Fundação Getulio Vargas**                   <br>
+Curso: [Modelagem Informacional](https://ss.cursos.fgv.br/d2l/home/121047)    <br>
+Professor: Júlio César Chaves                                                 <br>
 Monitor: [Gianlucca Devigili](https://www.linkedin.com/in/gianluccadevigili/)
 
 ### Avaliação
